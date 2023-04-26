@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "redbrainssurvivalmod:block/bread_dough"
+    },
+    "axis=z": {
+      "model": "redbrainssurvivalmod:block/bread_dough",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "redbrainssurvivalmod:block/dormant_soulforge",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "redbrainssurvivalmod:block/dormant_soulforge"
+    },
+    "facing=south": {
+      "model": "redbrainssurvivalmod:block/dormant_soulforge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "redbrainssurvivalmod:block/dormant_soulforge",
+      "y": 270
+    }
+  }
+}

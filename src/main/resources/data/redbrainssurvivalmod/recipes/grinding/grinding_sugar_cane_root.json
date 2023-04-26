@@ -1,0 +1,10 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "redbrainssurvivalmod:sugar_cane_root"
+  },
+  "results": {
+    "item": "minecraft:sugar"
+  },
+  "grindingTime": 200
+}

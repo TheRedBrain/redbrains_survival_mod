@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "redbrainssurvivalmod:block/loose_dirt"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/loose_dirt",
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/loose_dirt",
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/loose_dirt",
+        "y": 270
+      }
+    ]
+  }
+}

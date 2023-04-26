@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "redbrainssurvivalmod:gravel_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  }
+}

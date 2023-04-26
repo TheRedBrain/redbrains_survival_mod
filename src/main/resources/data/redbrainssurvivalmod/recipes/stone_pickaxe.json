@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "hs ",
+    " s "
+  ],
+  "key": {
+    "I": {
+      "tag": "redbrainssurvivalmod:loose_stone_items"
+    },
+    "h": {
+      "tag": "redbrainssurvivalmod:strings"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:stone_pickaxe"
+  }
+}

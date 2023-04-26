@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered"
+    },
+    "axis=z": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered",
+      "x": 90
+    }
+  }
+}

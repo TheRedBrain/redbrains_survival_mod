@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "redbrainssurvivalmod:hemp",
+    "redbrainssurvivalmod:hemp_fibre",
+    "minecraft:string",
+    "redbrainssurvivalmod:fuse",
+    "redbrainssurvivalmod:ground_netherrack"
+  ]
+}

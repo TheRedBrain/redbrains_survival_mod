@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 9,
+    "targets": [
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:stone",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:deepslate_gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:deepslate",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:granite_gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:granite",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:diorite_gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:diorite",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:andesite_gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:andesite",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:tuff_gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:tuff",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:calcite_gold_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:calcite",
+          "predicate_type": "minecraft:block_match"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#redbrainssurvivalmod:subblocks_stone_tier_1",
+    "redbrainssurvivalmod:stone",
+    "redbrainssurvivalmod:granite",
+    "redbrainssurvivalmod:diorite",
+    "redbrainssurvivalmod:andesite",
+    "redbrainssurvivalmod:infested_stone",
+    "redbrainssurvivalmod:infested_granite",
+    "redbrainssurvivalmod:infested_diorite",
+    "redbrainssurvivalmod:infested_andesite"
+  ]
+}

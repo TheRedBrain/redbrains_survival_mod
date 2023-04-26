@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "redbrainssurvivalmod:red_sand_pile"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:red_sand_slab",
+    "count": 1
+  }
+}

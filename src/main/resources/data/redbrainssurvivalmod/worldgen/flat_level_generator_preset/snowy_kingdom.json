@@ -1,0 +1,36 @@
+{
+  "display": "minecraft:snow",
+  "settings": {
+    "biome": "minecraft:snowy_plains",
+    "features": false,
+    "lakes": false,
+    "layers": [
+      {
+        "block": "minecraft:bedrock",
+        "height": 1
+      },
+      {
+        "block": "redbrainssurvivalmod:stone",
+        "height": 59
+      },
+      {
+        "block": "redbrainssurvivalmod:dirt",
+        "height": 3
+      },
+      {
+        "block": "redbrainssurvivalmod:grass_block",
+        "height": 1
+      },
+      {
+        "block": "minecraft:snow",
+        "height": 1
+      }
+    ],
+    "structure_overrides": [
+      "minecraft:villages",
+      "minecraft:igloos",
+      "redbrainssurvivalmod:abandoned_villages",
+      "redbrainssurvivalmod:semi_abandoned_villages"
+    ]
+  }
+}

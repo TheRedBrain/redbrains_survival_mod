@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "chiseled_state=0": {
+      "model": "redbrainssurvivalmod:block/logs/cherry_stump"
+    },
+    "chiseled_state=1": {
+      "model": "redbrainssurvivalmod:block/logs/cherry_stump_chiseled"
+    }
+  }
+}

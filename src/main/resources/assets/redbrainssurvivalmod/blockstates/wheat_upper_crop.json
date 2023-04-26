@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0,pollinated=false": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage0"
+    },
+    "age=1,pollinated=false": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage1"
+    },
+    "age=2,pollinated=false": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage2"
+    },
+    "age=3,pollinated=false": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage3"
+    },
+    "age=0,pollinated=true": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage0"
+    },
+    "age=1,pollinated=true": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage1"
+    },
+    "age=2,pollinated=true": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage2"
+    },
+    "age=3,pollinated=true": {
+      "model": "redbrainssurvivalmod:block/crops/wheat/wheat_upper_stage3"
+    }
+  }
+}

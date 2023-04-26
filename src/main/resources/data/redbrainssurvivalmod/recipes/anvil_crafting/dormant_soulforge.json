@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IIII",
+    " I  ",
+    " I  ",
+    "IIII"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:dormant_soulforge"
+  }
+}

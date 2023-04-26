@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_brick_block_6",
+  "textures": {
+    "texture_1": "minecraft:block/nether_bricks",
+    "texture_2": "minecraft:block/nether_bricks"
+  }
+}

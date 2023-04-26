@@ -1,0 +1,11 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "results": {
+    "item": "redbrainssurvivalmod:coal_dust",
+    "count": 2
+  },
+  "grindingTime": 200
+}

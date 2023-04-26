@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "redbrainssurvivalmod:block/bricks/end_stone_bricks_loose"
+  }
+}

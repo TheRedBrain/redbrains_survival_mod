@@ -1,0 +1,27 @@
+{
+  "display": "minecraft:grass_block",
+  "settings": {
+    "biome": "minecraft:plains",
+    "features": false,
+    "lakes": false,
+    "layers": [
+      {
+        "block": "minecraft:bedrock",
+        "height": 1
+      },
+      {
+        "block": "redbrainssurvivalmod:dirt",
+        "height": 2
+      },
+      {
+        "block": "redbrainssurvivalmod:grass_block",
+        "height": 1
+      }
+    ],
+    "structure_overrides": [
+      "minecraft:villages",
+      "redbrainssurvivalmod:abandoned_villages",
+      "redbrainssurvivalmod:semi_abandoned_villages"
+    ]
+  }
+}

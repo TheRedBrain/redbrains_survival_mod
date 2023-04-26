@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:pointy_stick"
+    },
+    {
+      "item": "redbrainssurvivalmod:pointy_stick"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:knitting_needles"
+  }
+}

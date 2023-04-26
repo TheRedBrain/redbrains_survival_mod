@@ -1,0 +1,11 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "redbrainssurvivalmod:hemp"
+  },
+  "results": {
+    "item": "redbrainssurvivalmod:hemp_fibre",
+    "count": 4
+  },
+  "grindingTime": 200
+}

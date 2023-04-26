@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "redbrainssurvivalmod:abandoned_village/desert/town_centers/desert_meeting_point_1",
+        "processors": "redbrainssurvivalmod:abandoned_desert",
+        "projection": "rigid"
+      },
+      "weight": 100
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "redbrainssurvivalmod:abandoned_village/desert/town_centers/desert_meeting_point_2",
+        "processors": "redbrainssurvivalmod:abandoned_desert",
+        "projection": "rigid"
+      },
+      "weight": 100
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "redbrainssurvivalmod:abandoned_village/desert/town_centers/desert_meeting_point_3",
+        "processors": "redbrainssurvivalmod:abandoned_desert",
+        "projection": "rigid"
+      },
+      "weight": 50
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

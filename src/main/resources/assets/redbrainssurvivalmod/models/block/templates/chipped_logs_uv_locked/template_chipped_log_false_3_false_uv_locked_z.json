@@ -1,0 +1,17 @@
+{
+  "parent": "block/block",
+  "elements": [
+    {
+      "from": [ 6, 0, 6 ],
+      "to": [ 10, 16, 10 ],
+      "faces": {
+        "down":  { "texture": "#inner_end", "cullface": "down" },
+        "up":    { "texture": "#inner_end", "cullface": "up" },
+        "north": { "texture": "#side_6" },
+        "south": { "texture": "#side_6" },
+        "west":  { "texture": "#side_6", "rotation": 90 },
+        "east":  { "texture": "#side_6", "rotation": 90 }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "facing=east,ingots=1": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_1",
+      "y": 270
+    },
+    "facing=east,ingots=2": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_2",
+      "y": 270
+    },
+    "facing=east,ingots=3": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_3",
+      "y": 270
+    },
+    "facing=east,ingots=4": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_4",
+      "y": 270
+    },
+    "facing=east,ingots=5": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_5",
+      "y": 270
+    },
+    "facing=east,ingots=6": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_6",
+      "y": 270
+    },
+    "facing=east,ingots=7": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_7",
+      "y": 270
+    },
+    "facing=east,ingots=8": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_8",
+      "y": 270
+    },
+    "facing=north,ingots=1": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_1",
+      "y": 180
+    },
+    "facing=north,ingots=2": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_2",
+      "y": 180
+    },
+    "facing=north,ingots=3": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_3",
+      "y": 180
+    },
+    "facing=north,ingots=4": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_4",
+      "y": 180
+    },
+    "facing=north,ingots=5": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_5",
+      "y": 180
+    },
+    "facing=north,ingots=6": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_6",
+      "y": 180
+    },
+    "facing=north,ingots=7": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_7",
+      "y": 180
+    },
+    "facing=north,ingots=8": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_8",
+      "y": 180
+    },
+    "facing=south,ingots=1": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_1"
+    },
+    "facing=south,ingots=2": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_2"
+    },
+    "facing=south,ingots=3": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_3"
+    },
+    "facing=south,ingots=4": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_4"
+    },
+    "facing=south,ingots=5": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_5"
+    },
+    "facing=south,ingots=6": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_6"
+    },
+    "facing=south,ingots=7": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_7"
+    },
+    "facing=south,ingots=8": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_8"
+    },
+    "facing=west,ingots=1": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_1",
+      "y": 90
+    },
+    "facing=west,ingots=2": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_2",
+      "y": 90
+    },
+    "facing=west,ingots=3": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_3",
+      "y": 90
+    },
+    "facing=west,ingots=4": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_4",
+      "y": 90
+    },
+    "facing=west,ingots=5": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_5",
+      "y": 90
+    },
+    "facing=west,ingots=6": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_6",
+      "y": 90
+    },
+    "facing=west,ingots=7": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_7",
+      "y": 90
+    },
+    "facing=west,ingots=8": {
+      "model": "redbrainssurvivalmod:block/copper_ingot_8",
+      "y": 90
+    }
+  }
+}

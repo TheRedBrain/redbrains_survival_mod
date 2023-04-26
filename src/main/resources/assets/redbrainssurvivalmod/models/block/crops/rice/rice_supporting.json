@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "redbrainssurvivalmod:block/farmersdelight/crops/rice_supporting"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "redbrainssurvivalmod:dirt_path_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "add": false
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "items": [
+                  "redbrainssurvivalmod:stone_shovel",
+                  "redbrainssurvivalmod:iron_shovel",
+                  "redbrainssurvivalmod:diamond_shovel",
+                  "redbrainssurvivalmod:golden_shovel",
+                  "redbrainssurvivalmod:refined_shovel",
+                  "redbrainssurvivalmod:mattock"
+                ]
+              }
+            }
+          ],
+          "name": "redbrainssurvivalmod:dirt_path_slab"
+        }
+      ]
+    }
+  ]
+}

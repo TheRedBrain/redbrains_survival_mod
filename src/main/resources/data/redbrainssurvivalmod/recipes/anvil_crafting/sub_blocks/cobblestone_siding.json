@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ssss"
+  ],
+  "key": {
+    "s": {
+      "item": "redbrainssurvivalmod:cobblestone"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:cobblestone_siding",
+    "count": 8
+  }
+}

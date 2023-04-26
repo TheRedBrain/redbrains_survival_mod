@@ -1,0 +1,11 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_forge",
+  "textures": {
+    "particle": "#side",
+    "front": "minecraft:block/gold_block",
+    "side": "minecraft:block/gold_block",
+    "back": "minecraft:block/gold_block",
+    "top": "minecraft:block/gold_block",
+    "bottom": "minecraft:block/gold_block"
+  }
+}

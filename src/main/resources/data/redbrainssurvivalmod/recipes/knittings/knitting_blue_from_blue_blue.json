@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "knitting_blue",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:wool_blue"
+    },
+    {
+      "item": "redbrainssurvivalmod:wool_blue"
+    },
+    {
+      "item": "redbrainssurvivalmod:knitting_needles"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:knitting_blue"
+  }
+}

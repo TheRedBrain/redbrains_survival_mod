@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:impermeable",
+    "minecraft:magma_block",
+    "minecraft:gold_block",
+    "minecraft:lapis_block",
+    "minecraft:diamond_block",
+    "minecraft:emerald_block",
+    "minecraft:sea_lantern",
+    "minecraft:crying_obsidian",
+    "#redbrainssurvivalmod:copper_blocks_for_beacon"
+  ]
+}

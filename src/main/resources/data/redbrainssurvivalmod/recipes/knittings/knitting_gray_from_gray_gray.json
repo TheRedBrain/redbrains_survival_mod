@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "knitting_gray",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:wool_gray"
+    },
+    {
+      "item": "redbrainssurvivalmod:wool_gray"
+    },
+    {
+      "item": "redbrainssurvivalmod:knitting_needles"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:knitting_gray"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_stem_growth7_with_weed",
+  "textures": {
+    "stem": "minecraft:block/melon_stem",
+    "weed": "redbrainssurvivalmod:block/crops/weeds_stage3"
+  }
+}

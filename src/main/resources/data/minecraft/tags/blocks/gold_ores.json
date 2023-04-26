@@ -1,0 +1,12 @@
+{
+  "values": [
+    "redbrainssurvivalmod:gold_ore",
+    "minecraft:nether_gold_ore",
+    "redbrainssurvivalmod:granite_gold_ore",
+    "redbrainssurvivalmod:diorite_gold_ore",
+    "redbrainssurvivalmod:andesite_gold_ore",
+    "redbrainssurvivalmod:calcite_gold_ore",
+    "redbrainssurvivalmod:tuff_gold_ore",
+    "redbrainssurvivalmod:deepslate_gold_ore"
+  ]
+}

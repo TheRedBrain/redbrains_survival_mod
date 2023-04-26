@@ -1,0 +1,20 @@
+{
+  "values": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate",
+    "redbrainssurvivalmod:granite_cobblestone",
+    "redbrainssurvivalmod:diorite_cobblestone",
+    "redbrainssurvivalmod:andesite_cobblestone",
+    "redbrainssurvivalmod:tuff_cobblestone",
+    "redbrainssurvivalmod:calcite_cobblestone",
+    "redbrainssurvivalmod:cobbled_end_stone",
+    "redbrainssurvivalmod:cobblestone_loose",
+    "redbrainssurvivalmod:granite_cobblestone_loose",
+    "redbrainssurvivalmod:diorite_cobblestone_loose",
+    "redbrainssurvivalmod:andesite_cobblestone_loose",
+    "redbrainssurvivalmod:tuff_cobblestone_loose",
+    "redbrainssurvivalmod:calcite_cobblestone_loose",
+    "redbrainssurvivalmod:cobbled_deepslate_loose",
+    "redbrainssurvivalmod:cobbled_end_stone_loose"
+  ]
+}

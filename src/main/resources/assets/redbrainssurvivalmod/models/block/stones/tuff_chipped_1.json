@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "redbrainssurvivalmod:block/stones/tuff_chipped_1"
+  }
+}

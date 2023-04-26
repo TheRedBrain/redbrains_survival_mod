@@ -1,0 +1,12 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/chipped_logs/template_chipped_log_false_4_false_horizontal",
+  "textures": {
+    "particle": "minecraft:block/stripped_jungle_log",
+    "end": "minecraft:block/stripped_jungle_log",
+    "inner_end": "minecraft:block/stripped_jungle_log_top",
+    "side": "minecraft:block/stripped_jungle_log",
+    "side_2": "redbrainssurvivalmod:block/logs/jungle_log_side_2",
+    "side_4": "redbrainssurvivalmod:block/logs/jungle_log_side_4",
+    "side_6": "redbrainssurvivalmod:block/logs/jungle_log_side_6"
+  }
+}

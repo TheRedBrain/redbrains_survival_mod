@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "redbrainssurvivalmod:cherry_log",
+    "redbrainssurvivalmod:cherry_wood",
+    "redbrainssurvivalmod:stripped_cherry_log",
+    "redbrainssurvivalmod:stripped_cherry_wood"
+  ]
+}

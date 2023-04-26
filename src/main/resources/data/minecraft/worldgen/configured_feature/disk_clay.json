@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "half_height": 1,
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 3,
+        "min_inclusive": 2
+      }
+    },
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:weighted_state_provider",
+        "entries": [
+          {
+            "weight": 3,
+            "data": {
+              "Name": "redbrainssurvivalmod:dirt"
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "redbrainssurvivalmod:clay_ore"
+            }
+          }
+        ]
+      },
+      "rules": []
+    },
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": [
+        "redbrainssurvivalmod:dirt",
+        "redbrainssurvivalmod:clay_ore"
+      ]
+    }
+  }
+}

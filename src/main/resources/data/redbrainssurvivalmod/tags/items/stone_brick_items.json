@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "redbrainssurvivalmod:stone_brick",
+    "redbrainssurvivalmod:andesite_brick",
+    "redbrainssurvivalmod:diorite_brick",
+    "redbrainssurvivalmod:tuff_brick",
+    "redbrainssurvivalmod:deepslate_brick",
+    "redbrainssurvivalmod:granite_brick"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#minecraft:logs",
+    "#minecraft:planks",
+    "#minecraft:wooden_doors",
+    "#redbrainssurvivalmod:subblocks_planks",
+    "redbrainssurvivalmod:cobweb",
+    "redbrainssurvivalmod:saw",
+    "redbrainssurvivalmod:pumpkin",
+    "redbrainssurvivalmod:carved_pumpkin",
+    "redbrainssurvivalmod:jack_o_lantern",
+    "redbrainssurvivalmod:melon"
+  ]
+}

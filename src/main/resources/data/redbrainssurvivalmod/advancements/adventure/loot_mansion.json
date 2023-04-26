@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "loot_mansion": {
+      "conditions": {
+        "loot_table": "minecraft:chests/woodland_mansion"
+      },
+      "trigger": "minecraft:player_generates_container_loot"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.loot_mansion.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:chest"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.loot_mansion.title"
+    }
+  },
+  "requirements": [
+    [
+      "loot_mansion"
+    ]
+  ]
+}

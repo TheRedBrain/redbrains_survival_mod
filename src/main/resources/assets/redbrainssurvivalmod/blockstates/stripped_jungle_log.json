@@ -1,0 +1,196 @@
+{
+  "variants": {
+    "axis=x,connect_to_neighbour_1=true,chipped_state=0,connect_to_neighbour_2=true": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=0,connect_to_neighbour_2=false": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=0,connect_to_neighbour_2=true": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=0,connect_to_neighbour_2=false": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=1,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_1_true_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=1,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_1_false_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=1,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_1_true_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=1,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_1_false_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=2,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_2_true_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=2,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_2_false_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=2,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_2_true_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=2,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_2_false_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=3,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_3_true_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=true,chipped_state=3,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_3_false_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=3,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_3_true_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,connect_to_neighbour_1=false,chipped_state=3,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_3_false_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=0,connect_to_neighbour_2=true": {
+      "model": "minecraft:block/stripped_jungle_log"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=0,connect_to_neighbour_2=false": {
+      "model": "minecraft:block/stripped_jungle_log"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=0,connect_to_neighbour_2=true": {
+      "model": "minecraft:block/stripped_jungle_log"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=0,connect_to_neighbour_2=false": {
+      "model": "minecraft:block/stripped_jungle_log"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=1,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_1_true"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=1,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_1_false"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=1,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_1_true"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=1,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_1_false"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=2,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_2_true"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=2,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_2_false"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=2,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_2_true"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=2,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_2_false"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=3,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_3_true"
+    },
+    "axis=y,connect_to_neighbour_1=true,chipped_state=3,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_3_false"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=3,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_3_true"
+    },
+    "axis=y,connect_to_neighbour_1=false,chipped_state=3,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_3_false"
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=0,connect_to_neighbour_2=true": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=0,connect_to_neighbour_2=false": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=0,connect_to_neighbour_2=true": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=0,connect_to_neighbour_2=false": {
+      "model": "minecraft:block/stripped_jungle_log_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=1,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_1_true_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=1,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_1_false_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=1,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_1_true_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=1,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_1_false_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=2,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_2_true_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=2,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_2_false_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=2,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_2_true_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=2,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_2_false_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=3,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_3_true_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=true,chipped_state=3,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_true_3_false_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=3,connect_to_neighbour_2=true": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_3_true_horizontal",
+      "x": -90
+    },
+    "axis=z,connect_to_neighbour_1=false,chipped_state=3,connect_to_neighbour_2=false": {
+      "model": "redbrainssurvivalmod:block/logs/chipped_jungle_log/chipped_jungle_log_false_3_false_horizontal",
+      "x": -90
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "results": {
+    "item": "redbrainssurvivalmod:leather_scoured"
+  },
+  "grindingTime": 200
+}

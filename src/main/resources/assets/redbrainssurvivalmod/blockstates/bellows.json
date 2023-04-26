@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,mechanical_power=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows",
+      "y": 90
+    },
+    "facing=east,mechanical_power=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows_powered",
+      "y": 90
+    },
+    "facing=north,mechanical_power=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows"
+    },
+    "facing=north,mechanical_power=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows_powered"
+    },
+    "facing=south,mechanical_power=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows",
+      "y": 180
+    },
+    "facing=south,mechanical_power=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows_powered",
+      "y": 180
+    },
+    "facing=west,mechanical_power=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows",
+      "y": 270
+    },
+    "facing=west,mechanical_power=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/bellows_powered",
+      "y": 270
+    }
+  }
+}

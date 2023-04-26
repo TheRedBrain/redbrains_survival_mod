@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 8,
+    "targets": [
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:stone",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:deepslate_redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:deepslate",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:granite_redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:granite",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:diorite_redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:diorite",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:andesite_redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:andesite",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:tuff_redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:tuff",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "redbrainssurvivalmod:calcite_redstone_ore"
+        },
+        "target": {
+          "block": "redbrainssurvivalmod:calcite",
+          "predicate_type": "minecraft:block_match"
+        }
+      }
+    ]
+  }
+}

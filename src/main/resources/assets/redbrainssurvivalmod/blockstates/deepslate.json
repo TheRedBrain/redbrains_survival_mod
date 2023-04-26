@@ -1,0 +1,294 @@
+{
+  "variants": {
+    "axis=x,chipped_state=0": [
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=x,chipped_state=1": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_1",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_1",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_1",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_1",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=x,chipped_state=2": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_2",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_2",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_2",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_2",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=x,chipped_state=3": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_3",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_3",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_3",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_3",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=x,chipped_state=4": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_4",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_4",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_4",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_4",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y,chipped_state=0": [
+      {
+        "model": "minecraft:block/deepslate"
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored"
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=y,chipped_state=1": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_1"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_1"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_1",
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_1",
+        "y": 180
+      }
+    ],
+    "axis=y,chipped_state=2": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_2"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_2"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_2",
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_2",
+        "y": 180
+      }
+    ],
+    "axis=y,chipped_state=3": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_3"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_3"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_3",
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_3",
+        "y": 180
+      }
+    ],
+    "axis=y,chipped_state=4": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_4"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_4"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_4",
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_4",
+        "y": 180
+      }
+    ],
+    "axis=z,chipped_state=0": [
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "axis=z,chipped_state=1": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_1",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_1",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_1",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_1",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "axis=z,chipped_state=2": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_2",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_2",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_2",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_2",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "axis=z,chipped_state=3": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_3",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_3",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_3",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_3",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "axis=z,chipped_state=4": [
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_4",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_4",
+        "x": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_chipped_4",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/stones/deepslate_mirrored_chipped_4",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

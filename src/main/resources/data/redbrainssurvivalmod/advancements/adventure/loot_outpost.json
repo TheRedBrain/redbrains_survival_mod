@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "loot_outpost": {
+      "conditions": {
+        "loot_table": "minecraft:chests/pillager_outpost"
+      },
+      "trigger": "minecraft:player_generates_container_loot"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.loot_outpost.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:chest"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.loot_outpost.title"
+    }
+  },
+  "requirements": [
+    [
+      "loot_outpost"
+    ]
+  ]
+}

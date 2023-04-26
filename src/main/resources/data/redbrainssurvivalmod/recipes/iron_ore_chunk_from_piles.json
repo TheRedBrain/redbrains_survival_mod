@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:iron_ore_pile"
+    },
+    {
+      "item": "redbrainssurvivalmod:iron_ore_pile"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:iron_ore_chunk"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wheat",
+    "minecraft:nether_wart",
+    "redbrainssurvivalmod:filament",
+    "redbrainssurvivalmod:element"
+  ]
+}

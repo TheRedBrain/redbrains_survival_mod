@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#redbrainssurvivalmod:mineable/hand_mineable",
+    "redbrainssurvivalmod:pumpkin",
+    "redbrainssurvivalmod:carved_pumpkin",
+    "redbrainssurvivalmod:jack_o_lantern",
+    "redbrainssurvivalmod:melon"
+  ]
+}

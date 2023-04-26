@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:fire_plough"
+  }
+}

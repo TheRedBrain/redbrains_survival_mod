@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I ",
+    "Is",
+    " s"
+  ],
+  "key": {
+    "I": {
+      "item": "redbrainssurvivalmod:diamond_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:diamond_axe"
+  }
+}

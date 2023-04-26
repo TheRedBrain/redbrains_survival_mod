@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank",
+      "y": 270
+    },
+    "facing=north,powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank_powered",
+      "y": 270
+    },
+    "facing=south,powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank",
+      "y": 90
+    },
+    "facing=south,powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank_powered",
+      "y": 90
+    },
+    "facing=east,powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank"
+    },
+    "facing=east,powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank_powered"
+    },
+    "facing=west,powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank",
+      "y": 180
+    },
+    "facing=west,powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/hand_crank_powered",
+      "y": 180
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e",
+    "s"
+  ],
+  "key": {
+    "e": {
+      "item": "redbrainssurvivalmod:stone_edge"
+    },
+    "s": {
+      "item": "redbrainssurvivalmod:stone_siding"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:stone_stair"
+  }
+}

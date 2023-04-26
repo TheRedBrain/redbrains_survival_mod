@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_stem_growth4_with_weed",
+  "textures": {
+    "stem": "minecraft:block/pumpkin_stem",
+    "weed": "redbrainssurvivalmod:block/crops/weeds_stage1"
+  }
+}

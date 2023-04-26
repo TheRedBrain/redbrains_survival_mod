@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": [
+      { "model": "redbrainssurvivalmod:block/ores/redstone_ore_unlit" }
+    ],
+	"lit=true": [
+      { "model": "block/redstone_ore" }
+    ]
+  }
+}

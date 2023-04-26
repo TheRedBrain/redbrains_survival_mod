@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:gold_ore_pile"
+    },
+    {
+      "item": "redbrainssurvivalmod:gold_ore_pile"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:gold_ore_chunk"
+  }
+}

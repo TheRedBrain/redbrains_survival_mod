@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "facing=east,dryness=1": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_1",
+      "y": 270
+    },
+    "facing=east,dryness=2": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_2",
+      "y": 270
+    },
+    "facing=east,dryness=3": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_3",
+      "y": 270
+    },
+    "facing=east,dryness=4": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_4",
+      "y": 270
+    },
+    "facing=east,dryness=5": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_5",
+      "y": 270
+    },
+    "facing=east,dryness=6": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_6",
+      "y": 270
+    },
+    "facing=east,dryness=7": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_7",
+      "y": 270
+    },
+    "facing=east,dryness=8": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_8",
+      "y": 270
+    },
+    "facing=north,dryness=1": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_1",
+      "y": 180
+    },
+    "facing=north,dryness=2": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_2",
+      "y": 180
+    },
+    "facing=north,dryness=3": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_3",
+      "y": 180
+    },
+    "facing=north,dryness=4": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_4",
+      "y": 180
+    },
+    "facing=north,dryness=5": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_5",
+      "y": 180
+    },
+    "facing=north,dryness=6": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_6",
+      "y": 180
+    },
+    "facing=north,dryness=7": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_7",
+      "y": 180
+    },
+    "facing=north,dryness=8": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_8",
+      "y": 180
+    },
+    "facing=south,dryness=1": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_1"
+    },
+    "facing=south,dryness=2": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_2"
+    },
+    "facing=south,dryness=3": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_3"
+    },
+    "facing=south,dryness=4": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_4"
+    },
+    "facing=south,dryness=5": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_5"
+    },
+    "facing=south,dryness=6": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_6"
+    },
+    "facing=south,dryness=7": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_7"
+    },
+    "facing=south,dryness=8": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_8"
+    },
+    "facing=west,dryness=1": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_1",
+      "y": 90
+    },
+    "facing=west,dryness=2": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_2",
+      "y": 90
+    },
+    "facing=west,dryness=3": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_3",
+      "y": 90
+    },
+    "facing=west,dryness=4": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_4",
+      "y": 90
+    },
+    "facing=west,dryness=5": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_5",
+      "y": 90
+    },
+    "facing=west,dryness=6": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_6",
+      "y": 90
+    },
+    "facing=west,dryness=7": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_7",
+      "y": 90
+    },
+    "facing=west,dryness=8": {
+      "model": "redbrainssurvivalmod:block/wet_clay_brick_8",
+      "y": 90
+    }
+  }
+}

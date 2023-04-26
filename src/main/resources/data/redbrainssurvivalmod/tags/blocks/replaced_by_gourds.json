@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "redbrainssurvivalmod:weed",
+    "redbrainssurvivalmod:beetroot_crop",
+    "redbrainssurvivalmod:carrot_crop",
+    "redbrainssurvivalmod:potato_crop",
+    "redbrainssurvivalmod:wheat_crop",
+    "redbrainssurvivalmod:hemp_crop",
+    "redbrainssurvivalmod:grass",
+    "redbrainssurvivalmod:fern",
+    "redbrainssurvivalmod:tall_grass",
+    "redbrainssurvivalmod:large_fern",
+    "redbrainssurvivalmod:attached_pumpkin_stem",
+    "redbrainssurvivalmod:pumpkin_stem",
+    "redbrainssurvivalmod:attached_melon_stem",
+    "redbrainssurvivalmod:melon_stem"
+  ]
+}

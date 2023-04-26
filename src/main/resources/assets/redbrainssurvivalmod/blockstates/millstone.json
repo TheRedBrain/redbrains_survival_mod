@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "mechanical_power=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/millstone"
+    },
+    "mechanical_power=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/millstone_powered"
+    }
+  }
+}

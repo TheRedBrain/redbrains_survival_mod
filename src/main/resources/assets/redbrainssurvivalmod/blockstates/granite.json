@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "chipped_state=0": {
+      "model": "minecraft:block/granite"
+    },
+    "chipped_state=1": {
+      "model": "redbrainssurvivalmod:block/stones/granite_chipped_1"
+    },
+    "chipped_state=2": {
+      "model": "redbrainssurvivalmod:block/stones/granite_chipped_2"
+    },
+    "chipped_state=3": {
+      "model": "redbrainssurvivalmod:block/stones/granite_chipped_3"
+    },
+    "chipped_state=4": {
+      "model": "redbrainssurvivalmod:block/stones/granite_chipped_4"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#redbrainssurvivalmod:mineable/hand_mineable",
+    "#redbrainssurvivalmod:cobblestones",
+    "#redbrainssurvivalmod:stones_tier_1",
+    "#redbrainssurvivalmod:ores_tier_1",
+    "redbrainssurvivalmod:millstone",
+    "redbrainssurvivalmod:chopping_block",
+    "redbrainssurvivalmod:chopping_block_bloody",
+    "redbrainssurvivalmod:hibachi"
+  ]
+}

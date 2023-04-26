@@ -1,0 +1,6 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_crop",
+  "textures": {
+    "crop": "redbrainssurvivalmod:block/crops/wheat_lower_stage5"
+  }
+}

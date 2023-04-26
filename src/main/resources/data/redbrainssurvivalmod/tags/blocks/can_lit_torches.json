@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:fire",
+    "minecraft:soul_fire",
+    "redbrainssurvivalmod:hibachi_fire",
+    "redbrainssurvivalmod:crude_torch",
+    "redbrainssurvivalmod:crude_wall_torch",
+    "minecraft:torch",
+    "minecraft:wall_torch"
+  ]
+}

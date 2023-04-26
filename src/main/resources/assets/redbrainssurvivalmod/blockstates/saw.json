@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "facing=down,mechanical_powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_vertical",
+      "x": 180
+    },
+    "facing=east,mechanical_powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw",
+      "y": 90
+    },
+    "facing=north,mechanical_powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw"
+    },
+    "facing=south,mechanical_powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw",
+      "y": 180
+    },
+    "facing=up,mechanical_powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_vertical"
+    },
+    "facing=west,mechanical_powered=false": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw",
+      "y": 270
+    },
+    "facing=down,mechanical_powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_vertical_powered",
+      "x": 180
+    },
+    "facing=east,mechanical_powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_powered",
+      "y": 90
+    },
+    "facing=north,mechanical_powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_powered"
+    },
+    "facing=south,mechanical_powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_powered",
+      "y": 180
+    },
+    "facing=up,mechanical_powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_vertical_powered"
+    },
+    "facing=west,mechanical_powered=true": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/saw_powered",
+      "y": 270
+    }
+  }
+}

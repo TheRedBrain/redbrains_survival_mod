@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "redbrainssurvivalmod:spruce_log",
+    "redbrainssurvivalmod:spruce_wood",
+    "redbrainssurvivalmod:stripped_spruce_log",
+    "redbrainssurvivalmod:stripped_spruce_wood"
+  ]
+}

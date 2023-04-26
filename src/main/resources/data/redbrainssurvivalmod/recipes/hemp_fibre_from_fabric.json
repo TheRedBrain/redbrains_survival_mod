@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:fabric"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:hemp_fibre",
+    "count": 9
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:bricks",
+    "minecraft:deepslate_bricks",
+    "minecraft:end_stone_bricks",
+    "minecraft:stone_bricks",
+    "redbrainssurvivalmod:granite_bricks",
+    "redbrainssurvivalmod:diorite_bricks",
+    "redbrainssurvivalmod:andesite_bricks",
+    "redbrainssurvivalmod:tuff_bricks",
+    "redbrainssurvivalmod:calcite_bricks",
+    "redbrainssurvivalmod:bricks_loose",
+    "redbrainssurvivalmod:stone_bricks_loose",
+    "redbrainssurvivalmod:granite_bricks_loose",
+    "redbrainssurvivalmod:diorite_bricks_loose",
+    "redbrainssurvivalmod:andesite_bricks_loose",
+    "redbrainssurvivalmod:tuff_bricks_loose",
+    "redbrainssurvivalmod:calcite_bricks_loose",
+    "redbrainssurvivalmod:deepslate_bricks_loose",
+    "redbrainssurvivalmod:end_stone_bricks_loose"
+  ]
+}

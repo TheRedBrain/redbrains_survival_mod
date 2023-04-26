@@ -1,0 +1,10 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "results": {
+    "item": "redbrainssurvivalmod:cocoa_powder"
+  },
+  "grindingTime": 200
+}

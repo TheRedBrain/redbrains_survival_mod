@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "redbrainssurvivalmod:loose_stone",
+    "redbrainssurvivalmod:loose_andesite_stone",
+    "redbrainssurvivalmod:loose_diorite_stone",
+    "redbrainssurvivalmod:loose_tuff_stone",
+    "redbrainssurvivalmod:loose_deepslate_stone",
+    "redbrainssurvivalmod:loose_granite_stone",
+    "redbrainssurvivalmod:loose_calcite_stone"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "#front",
+    "front": "redbrainssurvivalmod:block/saw/saw_front",
+    "side": "minecraft:block/oak_planks",
+    "saw_blade": "redbrainssurvivalmod:block/saw/saw_blade_off"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 12, 16 ],
+      "faces": {
+        "down":  { "texture": "#side", "cullface": "down" },
+        "up":    { "texture": "#front" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "west":  { "texture": "#side", "cullface": "west" },
+        "east":  { "texture": "#side", "cullface": "east" }
+      }
+    },
+    {
+      "from": [ 3, 12, 8 ],
+      "to": [ 13, 16, 8 ],
+      "faces": {
+        "north": { "texture": "#saw_blade" },
+        "south": { "texture": "#saw_blade" }
+      }
+    }
+  ]
+}

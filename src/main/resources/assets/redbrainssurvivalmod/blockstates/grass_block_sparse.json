@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "redbrainssurvivalmod:block/grass_block_sparse"
+      },
+      {
+        "model": "redbrainssurvivalmod:block/grass_block_sparse",
+        "y": 90
+      },
+      {
+        "model": "redbrainssurvivalmod:block/grass_block_sparse",
+        "y": 180
+      },
+      {
+        "model": "redbrainssurvivalmod:block/grass_block_sparse",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/grass_block_snow"
+    }
+  }
+}

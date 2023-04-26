@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_ore",
+  "textures": {
+    "stone": "minecraft:block/andesite",
+    "ore": "redbrainssurvivalmod:block/ores/emerald_ore_overlay"
+  }
+}

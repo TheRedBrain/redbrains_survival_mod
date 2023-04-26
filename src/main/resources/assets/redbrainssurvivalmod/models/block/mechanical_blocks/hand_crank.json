@@ -1,0 +1,36 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "#top",
+    "top": "redbrainssurvivalmod:block/hand_crank_top",
+    "bottom": "redbrainssurvivalmod:block/hand_crank_bottom",
+    "side": "redbrainssurvivalmod:block/hand_crank_side",
+    "lever": "redbrainssurvivalmod:block/hand_crank_lever"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 4, 16 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "west":  { "texture": "#side", "cullface": "west" },
+        "east":  { "texture": "#side", "cullface": "east" }
+      }
+    },
+    {
+      "from": [ 7, 1, 7 ],
+      "to": [ 9, 15, 9 ],
+      "rotation": { "origin": [ 8, 1, 8 ], "axis": "z", "angle": -22.5 },
+      "faces": {
+        "up":    { "uv": [7, 0, 9, 2],"texture": "#lever" },
+        "north": { "uv": [7, 0, 9, 14], "texture": "#lever" },
+        "south": { "uv": [7, 0, 9, 14], "texture": "#lever" },
+        "west":  { "uv": [7, 0, 9, 14], "texture": "#lever" },
+        "east":  { "uv": [7, 0, 9, 14], "texture": "#lever" }
+      }
+    }
+  ]
+}

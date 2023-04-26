@@ -1,0 +1,42 @@
+{
+  "type": "redbrainssurvivalmod:rendering",
+  "ingredients": [
+    [
+      {
+        "item": "redbrainssurvivalmod:beef"
+      },
+      {
+        "item": "redbrainssurvivalmod:cooked_beef"
+      }
+    ],
+    [
+      {
+        "item": "redbrainssurvivalmod:beef"
+      },
+      {
+        "item": "redbrainssurvivalmod:cooked_beef"
+      }
+    ],
+    [
+      {
+        "item": "redbrainssurvivalmod:beef"
+      },
+      {
+        "item": "redbrainssurvivalmod:cooked_beef"
+      }
+    ],
+    [
+      {
+        "item": "redbrainssurvivalmod:beef"
+      },
+      {
+        "item": "redbrainssurvivalmod:cooked_beef"
+      }
+    ]
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:tallow"
+  },
+  "cookingtime": 200,
+  "priority": 2
+}

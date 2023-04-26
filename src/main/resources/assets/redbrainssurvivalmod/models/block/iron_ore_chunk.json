@@ -1,0 +1,6 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_ore_chunk",
+  "textures": {
+    "all": "minecraft:block/raw_iron_block"
+  }
+}

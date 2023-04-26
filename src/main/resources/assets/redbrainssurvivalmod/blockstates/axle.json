@@ -1,0 +1,70 @@
+{
+  "variants": {
+    "facing=east,generated_power=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered"
+    },
+    "facing=east,generated_power=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered"
+    },
+    "facing=east,generated_power=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_fast"
+    },
+    "facing=west,generated_power=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered",
+      "y": 180
+    },
+    "facing=west,generated_power=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered",
+      "y": 180
+    },
+    "facing=west,generated_power=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_fast",
+      "y": 180
+    },
+    "facing=up,generated_power=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered_vertical",
+      "x": 180
+    },
+    "facing=up,generated_power=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_vertical",
+      "x": 180
+    },
+    "facing=up,generated_power=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_fast_vertical",
+      "x": 180
+    },
+    "facing=down,generated_power=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered_vertical"
+    },
+    "facing=down,generated_power=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_vertical"
+    },
+    "facing=down,generated_power=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_fast_vertical"
+    },
+    "facing=north,generated_power=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered",
+      "y": 270
+    },
+    "facing=north,generated_power=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered",
+      "y": 270
+    },
+    "facing=north,generated_power=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_fast",
+      "y": 270
+    },
+    "facing=south,generated_power=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered",
+      "y": 90
+    },
+    "facing=south,generated_power=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered",
+      "y": 90
+    },
+    "facing=south,generated_power=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/axle_powered_fast",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "#top",
+    "bottom": "redbrainssurvivalmod:block/millstone/millstone_bottom",
+    "top": "redbrainssurvivalmod:block/millstone/millstone_top",
+    "side": "redbrainssurvivalmod:block/millstone/millstone_side"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 9, 16 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "west":  { "texture": "#side", "cullface": "west" },
+        "east":  { "texture": "#side", "cullface": "east" }
+      }
+    },
+    {
+      "from": [ 1, 9, 1 ],
+      "to": [ 15, 11, 15 ],
+      "faces": {
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#side" },
+        "east":  { "texture": "#side" }
+      }
+    },
+    {
+      "from": [ 0, 11, 0 ],
+      "to": [ 16, 15, 16 ],
+      "faces": {
+        "down":  { "texture": "#bottom" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "west":  { "texture": "#side", "cullface": "west" },
+        "east":  { "texture": "#side", "cullface": "east" }
+      }
+    },
+    {
+      "from": [ 1, 15, 1 ],
+      "to": [ 15, 16, 15 ],
+      "faces": {
+        "up":    { "texture": "#top", "cullface": "up" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#side" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}

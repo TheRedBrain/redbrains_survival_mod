@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ssss"
+  ],
+  "key": {
+    "s": {
+      "item": "redbrainssurvivalmod:stone_edge"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:stone_corner",
+    "count": 8
+  }
+}

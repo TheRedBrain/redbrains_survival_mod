@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stone",
+    "minecraft:end_stone",
+    "#minecraft:logs_that_burn"
+  ]
+}

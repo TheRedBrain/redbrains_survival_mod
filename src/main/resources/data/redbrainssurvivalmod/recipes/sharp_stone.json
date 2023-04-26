@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "redbrainssurvivalmod:loose_stone_items"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:sharp_stone"
+  }
+}

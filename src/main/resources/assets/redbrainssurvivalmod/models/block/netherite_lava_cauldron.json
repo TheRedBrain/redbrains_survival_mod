@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_full",
+  "textures": {
+    "bottom": "redbrainssurvivalmod:block/netherite_cauldron_bottom",
+    "content": "minecraft:block/lava_still",
+    "inside": "redbrainssurvivalmod:block/netherite_cauldron_inner",
+    "particle": "redbrainssurvivalmod:block/netherite_cauldron_side",
+    "side": "redbrainssurvivalmod:block/netherite_cauldron_side",
+    "top": "redbrainssurvivalmod:block/netherite_cauldron_top"
+  }
+}

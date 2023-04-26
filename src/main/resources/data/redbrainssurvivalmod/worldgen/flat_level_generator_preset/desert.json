@@ -1,0 +1,34 @@
+{
+  "display": "minecraft:sand",
+  "settings": {
+    "biome": "minecraft:desert",
+    "features": true,
+    "lakes": false,
+    "layers": [
+      {
+        "block": "minecraft:bedrock",
+        "height": 1
+      },
+      {
+        "block": "redbrainssurvivalmod:stone",
+        "height": 3
+      },
+      {
+        "block": "redbrainssurvivalmod:sandstone",
+        "height": 52
+      },
+      {
+        "block": "redbrainssurvivalmod:sand",
+        "height": 8
+      }
+    ],
+    "structure_overrides": [
+      "minecraft:villages",
+      "minecraft:desert_pyramids",
+      "minecraft:mineshafts",
+      "minecraft:strongholds",
+      "redbrainssurvivalmod:abandoned_villages",
+      "redbrainssurvivalmod:semi_abandoned_villages"
+    ]
+  }
+}

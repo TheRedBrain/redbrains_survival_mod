@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "knitting_cyan",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:wool_black"
+    },
+    {
+      "item": "redbrainssurvivalmod:wool_blue"
+    },
+    {
+      "item": "redbrainssurvivalmod:knitting_needles"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:knitting_cyan"
+  }
+}

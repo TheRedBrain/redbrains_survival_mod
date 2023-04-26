@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "redbrainssurvivalmod:raw_egg"
+  },
+  "result": "minecraft:charcoal",
+  "cookingtime": 1600
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "half=lower,snowy=false": {
+      "model": "minecraft:block/tall_grass_bottom"
+    },
+    "half=lower,snowy=true": {
+      "model": "redbrainssurvivalmod:block/snowy_tall_grass_bottom"
+    },
+    "half=upper,snowy=false": {
+      "model": "minecraft:block/tall_grass_top"
+    },
+    "half=upper,snowy=true": {
+      "model": "redbrainssurvivalmod:block/snowy_tall_grass_top"
+    }
+  }
+}

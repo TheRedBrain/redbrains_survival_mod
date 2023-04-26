@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "redbrainssurvivalmod:block/mycelium_slab_sparse"
+    },
+    "snowy=false,type=double": {
+      "model": "redbrainssurvivalmod:block/mycelium_sparse"
+    },
+    "snowy=true,type=double": {
+      "model": "minecraft:block/grass_block_snow"
+    },
+    "type=top": {
+      "model": "redbrainssurvivalmod:block/mycelium_slab_sparse"
+    }
+  }
+}

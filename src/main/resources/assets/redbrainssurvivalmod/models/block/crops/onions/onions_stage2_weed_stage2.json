@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_crop_with_weed",
+  "textures": {
+    "crop": "redbrainssurvivalmod:block/farmersdelight/crops/onions_stage2",
+    "weed": "redbrainssurvivalmod:block/crops/weeds_stage2"
+  }
+}

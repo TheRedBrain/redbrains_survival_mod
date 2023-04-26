@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "redbrainssurvivalmod:dirt_pile"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:dirt_slab",
+    "count": 1
+  }
+}

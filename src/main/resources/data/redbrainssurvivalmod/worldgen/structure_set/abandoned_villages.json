@@ -1,0 +1,31 @@
+{
+  "placement": {
+    "maxDistance": 2000,
+    "type": "redbrainssurvivalmod:random_spread_max_distance_from_zero",
+    "salt": 10387312,
+    "separation": 8,
+    "spacing": 34
+  },
+  "structures": [
+    {
+      "structure": "redbrainssurvivalmod:abandoned_village_plains",
+      "weight": 1
+    },
+    {
+      "structure": "redbrainssurvivalmod:abandoned_village_desert",
+      "weight": 1
+    },
+    {
+      "structure": "redbrainssurvivalmod:abandoned_village_savanna",
+      "weight": 1
+    },
+    {
+      "structure": "redbrainssurvivalmod:abandoned_village_snowy",
+      "weight": 1
+    },
+    {
+      "structure": "redbrainssurvivalmod:abandoned_village_taiga",
+      "weight": 1
+    }
+  ]
+}

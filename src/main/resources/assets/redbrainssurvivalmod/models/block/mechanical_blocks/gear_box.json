@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_directional",
+  "textures": {
+    "particle": "redbrainssurvivalmod:block/gear_box_output",
+    "down":  "redbrainssurvivalmod:block/gear_box_output",
+    "up":    "redbrainssurvivalmod:block/gear_box_output",
+    "north": "redbrainssurvivalmod:block/gear_box_output",
+    "south": "redbrainssurvivalmod:block/gear_box_input",
+    "west":  "redbrainssurvivalmod:block/gear_box_output",
+    "east":  "redbrainssurvivalmod:block/gear_box_output"
+  }
+}

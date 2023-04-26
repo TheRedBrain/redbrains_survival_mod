@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_crop_with_weed",
+  "textures": {
+    "crop": "minecraft:block/carrots_stage1",
+    "weed": "redbrainssurvivalmod:block/crops/weeds_stage1"
+  }
+}

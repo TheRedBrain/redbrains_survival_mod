@@ -1,0 +1,9 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_mould",
+  "textures": {
+    "particle": "block/clay",
+    "top": "block/clay",
+    "bottom": "block/clay",
+    "side": "block/clay"
+  }
+}

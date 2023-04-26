@@ -1,0 +1,39 @@
+{
+  "display": "minecraft:water_bucket",
+  "settings": {
+    "biome": "minecraft:deep_ocean",
+    "features": false,
+    "lakes": false,
+    "layers": [
+      {
+        "block": "minecraft:bedrock",
+        "height": 1
+      },
+      {
+        "block": "redbrainssurvivalmod:deepslate",
+        "height": 64
+      },
+      {
+        "block": "redbrainssurvivalmod:stone",
+        "height": 5
+      },
+      {
+        "block": "redbrainssurvivalmod:dirt",
+        "height": 5
+      },
+      {
+        "block": "redbrainssurvivalmod:gravel",
+        "height": 5
+      },
+      {
+        "block": "minecraft:water",
+        "height": 90
+      }
+    ],
+    "structure_overrides": [
+      "minecraft:ocean_ruins",
+      "minecraft:shipwrecks",
+      "minecraft:ocean_monuments"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e",
+    "s"
+  ],
+  "key": {
+    "e": {
+      "item": "redbrainssurvivalmod:cobblestone_edge"
+    },
+    "s": {
+      "item": "redbrainssurvivalmod:cobblestone_siding"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:cobblestone_stair"
+  }
+}

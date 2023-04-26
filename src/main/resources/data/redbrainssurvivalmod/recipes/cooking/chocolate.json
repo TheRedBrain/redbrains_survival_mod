@@ -1,0 +1,20 @@
+{
+  "type": "redbrainssurvivalmod:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "redbrainssurvivalmod:cocoa_powder"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:chocolate",
+    "count": 2
+  },
+  "cookingtime": 200,
+  "priority": 2
+}

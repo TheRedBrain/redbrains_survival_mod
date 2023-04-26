@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#minecraft:leaves",
+    "#minecraft:wool",
+    "redbrainssurvivalmod:cobweb",
+    "redbrainssurvivalmod:grass",
+    "redbrainssurvivalmod:tall_grass",
+    "redbrainssurvivalmod:fern",
+    "redbrainssurvivalmod:large_fern",
+    "redbrainssurvivalmod:hemp_crop",
+    "redbrainssurvivalmod:hemp_upper_crop"
+  ]
+}

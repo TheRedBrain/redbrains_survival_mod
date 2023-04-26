@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:milk"
+    },
+    {
+      "item": "redbrainssurvivalmod:cocoa_powder"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:chocolate_milk"
+  }
+}

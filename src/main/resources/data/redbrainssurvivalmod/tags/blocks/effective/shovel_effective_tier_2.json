@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:dirt",
+    "#minecraft:sand",
+    "#redbrainssurvivalmod:effective/shovel_effective_tier_1",
+    "minecraft:gravel",
+    "minecraft:soul_sand"
+  ]
+}

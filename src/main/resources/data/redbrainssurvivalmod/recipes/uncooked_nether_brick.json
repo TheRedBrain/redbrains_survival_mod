@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:nether_sludge"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:uncooked_nether_brick"
+  }
+}

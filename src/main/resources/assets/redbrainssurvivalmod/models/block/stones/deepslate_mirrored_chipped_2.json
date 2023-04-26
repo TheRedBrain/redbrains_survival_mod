@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "end": "redbrainssurvivalmod:block/stones/deepslate_top_chipped_2",
+    "side": "redbrainssurvivalmod:block/stones/deepslate_chipped_2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "redbrainssurvivalmod:block/uncooked_nether_brick",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "redbrainssurvivalmod:block/uncooked_nether_brick",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "redbrainssurvivalmod:block/uncooked_nether_brick"
+    },
+    "facing=west": {
+      "model": "redbrainssurvivalmod:block/uncooked_nether_brick",
+      "y": 90
+    }
+  }
+}

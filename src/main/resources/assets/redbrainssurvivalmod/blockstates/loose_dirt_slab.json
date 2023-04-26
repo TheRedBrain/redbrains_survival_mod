@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "redbrainssurvivalmod:block/loose_dirt"
+    },
+    "type=double": {
+      "model": "redbrainssurvivalmod:block/loose_dirt"
+    },
+    "type=top": {
+      "model": "redbrainssurvivalmod:block/loose_dirt"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "redbrainssurvivalmod:block/mechanical_blocks/millstone",
+  "textures": {
+    "bottom": "redbrainssurvivalmod:block/millstone/millstone_bottom_powered",
+    "top": "redbrainssurvivalmod:block/millstone/millstone_top_powered",
+    "side": "redbrainssurvivalmod:block/millstone/millstone_side_powered"
+  }
+}

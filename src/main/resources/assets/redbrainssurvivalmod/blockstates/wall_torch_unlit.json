@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "redbrainssurvivalmod:block/torches/wall_torch_unlit"
+    },
+    "facing=north": {
+      "model": "redbrainssurvivalmod:block/torches/wall_torch_unlit",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "redbrainssurvivalmod:block/torches/wall_torch_unlit",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "redbrainssurvivalmod:block/torches/wall_torch_unlit",
+      "y": 180
+    }
+  }
+}

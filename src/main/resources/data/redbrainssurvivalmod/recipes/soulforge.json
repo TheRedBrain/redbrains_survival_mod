@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:dormant_soulforge"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "redbrainssurvivalmod:soul_flux"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:soulforge"
+  }
+}

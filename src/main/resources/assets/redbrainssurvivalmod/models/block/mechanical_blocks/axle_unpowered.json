@@ -1,0 +1,22 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "#side",
+    "face": "redbrainssurvivalmod:block/axle/axle_face",
+    "side": "redbrainssurvivalmod:block/axle/axle_side"
+  },
+  "elements": [
+    {
+      "from": [ 0, 6, 6 ],
+      "to": [ 16, 10, 10 ],
+      "faces": {
+        "down":  { "texture": "#side" },
+        "up":    { "texture": "#side" },
+        "north": { "rotation": 180, "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#face", "cullface": "west" },
+        "east":  { "texture": "#face", "cullface": "east" }
+      }
+    }
+  ]
+}

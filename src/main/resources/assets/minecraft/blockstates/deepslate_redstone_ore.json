@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": [
+      { "model": "redbrainssurvivalmod:block/ores/deepslate_redstone_ore_unlit" }
+    ],
+	"lit=true": [
+      { "model": "block/deepslate_redstone_ore" }
+    ]
+  }
+}

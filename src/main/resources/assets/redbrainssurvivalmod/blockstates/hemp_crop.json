@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "age=0,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage0"
+    },
+    "age=0,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage0_weed_stage1"
+    },
+    "age=0,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage0_weed_stage2"
+    },
+    "age=0,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage0_weed_stage3"
+    },
+    "age=1,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage1"
+    },
+    "age=1,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage1_weed_stage1"
+    },
+    "age=1,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage1_weed_stage2"
+    },
+    "age=1,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage1_weed_stage3"
+    },
+    "age=2,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage2"
+    },
+    "age=2,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage2_weed_stage1"
+    },
+    "age=2,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage2_weed_stage2"
+    },
+    "age=2,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage2_weed_stage3"
+    },
+    "age=3,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage3"
+    },
+    "age=3,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage3_weed_stage1"
+    },
+    "age=3,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage3_weed_stage2"
+    },
+    "age=3,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage3_weed_stage3"
+    },
+    "age=4,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage4"
+    },
+    "age=4,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage4_weed_stage1"
+    },
+    "age=4,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage4_weed_stage2"
+    },
+    "age=4,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage4_weed_stage3"
+    },
+    "age=5,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage5"
+    },
+    "age=5,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage5_weed_stage1"
+    },
+    "age=5,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage5_weed_stage2"
+    },
+    "age=5,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage5_weed_stage3"
+    },
+    "age=6,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage6"
+    },
+    "age=6,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage6_weed_stage1"
+    },
+    "age=6,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage6_weed_stage2"
+    },
+    "age=6,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage6_weed_stage3"
+    },
+    "age=7,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7"
+    },
+    "age=7,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage1"
+    },
+    "age=7,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage2"
+    },
+    "age=7,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage3"
+    },
+    "age=8,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7"
+    },
+    "age=8,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage1"
+    },
+    "age=8,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage2"
+    },
+    "age=8,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage3"
+    },
+    "age=9,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7"
+    },
+    "age=9,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage1"
+    },
+    "age=9,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage2"
+    },
+    "age=9,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/hemp/hemp_lower_stage7_weed_stage3"
+    }
+  }
+}

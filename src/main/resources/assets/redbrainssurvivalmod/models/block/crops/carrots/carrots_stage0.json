@@ -1,0 +1,6 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_crop",
+  "textures": {
+    "crop": "minecraft:block/carrots_stage0"
+  }
+}

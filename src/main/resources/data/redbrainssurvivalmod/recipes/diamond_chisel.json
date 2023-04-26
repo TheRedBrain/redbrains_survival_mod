@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:diamond_ingot"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:diamond_chisel"
+  }
+}

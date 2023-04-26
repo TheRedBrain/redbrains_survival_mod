@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "age=0,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0"
+    },
+    "age=0,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0_weed_stage1"
+    },
+    "age=0,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0_weed_stage2"
+    },
+    "age=0,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0_weed_stage3"
+    },
+    "age=1,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0"
+    },
+    "age=1,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0_weed_stage1"
+    },
+    "age=1,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0_weed_stage2"
+    },
+    "age=1,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage0_weed_stage3"
+    },
+    "age=2,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1"
+    },
+    "age=2,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1_weed_stage1"
+    },
+    "age=2,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1_weed_stage2"
+    },
+    "age=2,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1_weed_stage3"
+    },
+    "age=3,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1"
+    },
+    "age=3,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1_weed_stage1"
+    },
+    "age=3,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1_weed_stage2"
+    },
+    "age=3,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage1_weed_stage3"
+    },
+    "age=4,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2"
+    },
+    "age=4,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage1"
+    },
+    "age=4,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage2"
+    },
+    "age=4,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage3"
+    },
+    "age=5,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2"
+    },
+    "age=5,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage1"
+    },
+    "age=5,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage2"
+    },
+    "age=5,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage3"
+    },
+    "age=6,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2"
+    },
+    "age=6,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage1"
+    },
+    "age=6,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage2"
+    },
+    "age=6,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage2_weed_stage3"
+    },
+    "age=7,weed_age=0": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage3"
+    },
+    "age=7,weed_age=1": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage3_weed_stage1"
+    },
+    "age=7,weed_age=2": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage3_weed_stage2"
+    },
+    "age=7,weed_age=3": {
+      "model": "redbrainssurvivalmod:block/crops/melon_stem/melon_stem_stage3_weed_stage3"
+    }
+  }
+}

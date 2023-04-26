@@ -1,0 +1,227 @@
+{
+  "processors": [
+    {
+      "rules": [
+        {
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "tag": "minecraft:doors",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "tag": "minecraft:beds",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "totally_lit:unlit_torch"
+          },
+          "input_predicate": {
+            "block": "minecraft:torch",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Properties": {
+                "facing": "east"
+            },
+            "Name": "totally_lit:unlit_wall_torch"
+          },
+          "input_predicate": {
+            "block_state": {
+              "Properties": {
+                "facing": "east"
+              },
+              "Name": "minecraft:wall_torch"
+            },
+            "predicate_type": "minecraft:blockstate_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Properties": {
+                "facing": "north"
+            },
+            "Name": "totally_lit:unlit_wall_torch"
+          },
+          "input_predicate": {
+            "block_state": {
+              "Properties": {
+                "facing": "north"
+              },
+              "Name": "minecraft:wall_torch"
+            },
+            "predicate_type": "minecraft:blockstate_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Properties": {
+                "facing": "south"
+            },
+            "Name": "totally_lit:unlit_wall_torch"
+          },
+          "input_predicate": {
+            "block_state": {
+              "Properties": {
+                "facing": "south"
+              },
+              "Name": "minecraft:wall_torch"
+            },
+            "predicate_type": "minecraft:blockstate_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Properties": {
+                "facing": "west"
+            },
+            "Name": "totally_lit:unlit_wall_torch"
+          },
+          "input_predicate": {
+            "block_state": {
+              "Properties": {
+                "facing": "west"
+              },
+              "Name": "minecraft:wall_torch"
+            },
+            "predicate_type": "minecraft:blockstate_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:cobweb"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_sandstone",
+            "probability": 0.08,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:cobweb"
+          },
+          "input_predicate": {
+            "block": "minecraft:cut_sandstone",
+            "probability": 0.1,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:cobweb"
+          },
+          "input_predicate": {
+            "block": "minecraft:terracotta",
+            "probability": 0.08,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:cobweb"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_sandstone_stairs",
+            "probability": 0.08,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:cobweb"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_sandstone_slab",
+            "probability": 0.08,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:wheat",
+            "probability": 0.6,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:grass"
+          },
+          "input_predicate": {
+            "block": "minecraft:wheat",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:hay_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        }
+      ],
+      "processor_type": "minecraft:rule"
+    }
+  ]
+}

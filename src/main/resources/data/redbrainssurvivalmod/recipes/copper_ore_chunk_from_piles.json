@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:copper_ore_pile"
+    },
+    {
+      "item": "redbrainssurvivalmod:copper_ore_pile"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:copper_ore_chunk"
+  }
+}

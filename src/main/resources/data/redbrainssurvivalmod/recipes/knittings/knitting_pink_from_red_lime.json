@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "knitting_pink",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:wool_red"
+    },
+    {
+      "item": "redbrainssurvivalmod:wool_lime"
+    },
+    {
+      "item": "redbrainssurvivalmod:knitting_needles"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:knitting_pink"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "redbrainssurvivalmod:block/mechanical_blocks/gear_box",
+  "textures": {
+    "particle": "redbrainssurvivalmod:block/redstone_gear_box_output",
+    "down":  "redbrainssurvivalmod:block/redstone_gear_box_output",
+    "up":    "redbrainssurvivalmod:block/redstone_gear_box_output",
+    "north": "redbrainssurvivalmod:block/redstone_gear_box_output",
+    "south": "redbrainssurvivalmod:block/redstone_gear_box_input",
+    "west":  "redbrainssurvivalmod:block/redstone_gear_box_output",
+    "east":  "redbrainssurvivalmod:block/redstone_gear_box_output"
+  }
+}

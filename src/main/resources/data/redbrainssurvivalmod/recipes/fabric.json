@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    },
+    {
+      "item": "redbrainssurvivalmod:hemp_fibre"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:fabric"
+  }
+}

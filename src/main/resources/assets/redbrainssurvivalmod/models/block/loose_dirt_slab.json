@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "redbrainssurvivalmod:block/loose_dirt",
+    "top": "redbrainssurvivalmod:block/loose_dirt",
+    "side": "redbrainssurvivalmod:block/loose_dirt"
+  }
+}

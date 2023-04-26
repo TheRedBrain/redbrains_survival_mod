@@ -1,0 +1,11 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_forge",
+  "textures": {
+    "particle": "#side",
+    "front": "minecraft:block/netherite_block",
+    "side": "minecraft:block/netherite_block",
+    "back": "minecraft:block/netherite_block",
+    "top": "minecraft:block/netherite_block",
+    "bottom": "minecraft:block/netherite_block"
+  }
+}

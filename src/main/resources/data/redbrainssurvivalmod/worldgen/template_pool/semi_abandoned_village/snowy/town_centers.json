@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "redbrainssurvivalmod:semi_abandoned_village/snowy/town_centers/snowy_meeting_point_1",
+        "processors": "redbrainssurvivalmod:semi_abandoned_snowy",
+        "projection": "rigid"
+      },
+      "weight": 100
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "redbrainssurvivalmod:semi_abandoned_village/snowy/town_centers/snowy_meeting_point_2",
+        "processors": "redbrainssurvivalmod:semi_abandoned_snowy",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "redbrainssurvivalmod:semi_abandoned_village/snowy/town_centers/snowy_meeting_point_3",
+        "processors": "redbrainssurvivalmod:semi_abandoned_snowy",
+        "projection": "rigid"
+      },
+      "weight": 150
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

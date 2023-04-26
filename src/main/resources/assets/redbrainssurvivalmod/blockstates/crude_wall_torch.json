@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "redbrainssurvivalmod:block/torches/crude_wall_torch"
+    },
+    "facing=north": {
+      "model": "redbrainssurvivalmod:block/torches/crude_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "redbrainssurvivalmod:block/torches/crude_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "redbrainssurvivalmod:block/torches/crude_wall_torch",
+      "y": 180
+    }
+  }
+}

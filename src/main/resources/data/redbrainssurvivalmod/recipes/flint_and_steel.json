@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I ",
+    " f"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "f": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:flint_and_steel"
+  }
+}

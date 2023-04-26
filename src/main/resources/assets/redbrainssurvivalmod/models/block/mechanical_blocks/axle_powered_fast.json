@@ -1,0 +1,6 @@
+{
+  "parent": "redbrainssurvivalmod:block/mechanical_blocks/axle_unpowered",
+  "textures": {
+    "side": "redbrainssurvivalmod:block/axle/axle_side_powered_fast"
+  }
+}

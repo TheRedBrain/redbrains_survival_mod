@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:all_signs",
+    "#minecraft:logs",
+    "#minecraft:leaves",
+    "#minecraft:planks",
+    "#minecraft:wooden_doors",
+    "#minecraft:wool",
+    "#redbrainssurvivalmod:subblocks_planks",
+    "#redbrainssurvivalmod:torches"
+  ]
+}

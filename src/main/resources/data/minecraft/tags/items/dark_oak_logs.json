@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "redbrainssurvivalmod:dark_oak_log",
+    "redbrainssurvivalmod:dark_oak_wood",
+    "redbrainssurvivalmod:stripped_dark_oak_log",
+    "redbrainssurvivalmod:stripped_dark_oak_wood"
+  ]
+}

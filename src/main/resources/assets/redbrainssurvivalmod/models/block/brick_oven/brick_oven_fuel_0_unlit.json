@@ -1,0 +1,8 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_brick_oven",
+  "textures": {
+    "particle": "#side",
+    "side": "redbrainssurvivalmod:block/brick_oven/brick_oven_side",
+    "front": "redbrainssurvivalmod:block/brick_oven/brick_oven_front_unlit"
+  }
+}

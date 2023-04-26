@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "delay=0": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/turntable_delay_0"
+    },
+    "delay=1": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/turntable_delay_1"
+    },
+    "delay=2": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/turntable_delay_2"
+    },
+    "delay=3": {
+      "model": "redbrainssurvivalmod:block/mechanical_blocks/turntable_delay_3"
+    }
+  }
+}

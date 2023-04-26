@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "redbrainssurvivalmod:block/mud_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/mud"
+    },
+    "type=top": {
+      "model": "redbrainssurvivalmod:block/mud_slab"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "redbrainssurvivalmod:rendering",
+  "ingredients": [
+    [
+      {
+        "item": "redbrainssurvivalmod:pork_chop"
+      },
+      {
+        "item": "redbrainssurvivalmod:cooked_pork_chop"
+      }
+    ]
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:tallow"
+  },
+  "cookingtime": 200,
+  "priority": 2
+}

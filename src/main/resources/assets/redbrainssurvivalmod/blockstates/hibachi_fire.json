@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stoked=true": {
+      "model": "redbrainssurvivalmod:block/hibachi_fire_stoked"
+    },
+    "stoked=false": {
+      "model": "redbrainssurvivalmod:block/hibachi_fire"
+    }
+  }
+}

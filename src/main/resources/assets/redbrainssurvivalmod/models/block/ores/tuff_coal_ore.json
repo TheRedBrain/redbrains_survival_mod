@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_ore",
+  "textures": {
+    "stone": "minecraft:block/tuff",
+    "ore": "redbrainssurvivalmod:block/ores/coal_ore_overlay"
+  }
+}

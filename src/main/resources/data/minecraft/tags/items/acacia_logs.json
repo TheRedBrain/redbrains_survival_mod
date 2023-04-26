@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "redbrainssurvivalmod:acacia_log",
+    "redbrainssurvivalmod:acacia_wood",
+    "redbrainssurvivalmod:stripped_acacia_log",
+    "redbrainssurvivalmod:stripped_acacia_wood"
+  ]
+}

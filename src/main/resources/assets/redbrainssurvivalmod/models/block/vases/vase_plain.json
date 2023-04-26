@@ -1,0 +1,9 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_vase",
+  "textures": {
+    "particle": "block/terracotta",
+    "top": "block/terracotta",
+    "bottom": "block/terracotta",
+    "side": "block/terracotta"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:beds",
+    "#minecraft:doors",
+    "minecraft:ender_chest",
+    "redbrainssurvivalmod:axle",
+    "redbrainssurvivalmod:hand_crank"
+  ]
+}

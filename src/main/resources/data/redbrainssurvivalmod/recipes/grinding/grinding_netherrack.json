@@ -1,0 +1,10 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "results": {
+    "item": "redbrainssurvivalmod:ground_netherrack"
+  },
+  "grindingTime": 200
+}

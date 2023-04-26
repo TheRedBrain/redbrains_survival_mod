@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "s"
+  ],
+  "key": {
+    "c": {
+      "item": "redbrainssurvivalmod:nether_coal"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:torch_unlit"
+  }
+}

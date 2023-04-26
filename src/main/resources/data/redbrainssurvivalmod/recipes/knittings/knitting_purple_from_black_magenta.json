@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "knitting_purple",
+  "ingredients": [
+    {
+      "item": "redbrainssurvivalmod:wool_black"
+    },
+    {
+      "item": "redbrainssurvivalmod:wool_magenta"
+    },
+    {
+      "item": "redbrainssurvivalmod:knitting_needles"
+    }
+  ],
+  "result": {
+    "item": "redbrainssurvivalmod:knitting_purple"
+  }
+}

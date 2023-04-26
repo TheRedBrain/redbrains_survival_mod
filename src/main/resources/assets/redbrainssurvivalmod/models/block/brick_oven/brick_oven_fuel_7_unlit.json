@@ -1,0 +1,9 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_brick_oven_with_overlay",
+  "textures": {
+    "particle": "#side",
+    "side": "redbrainssurvivalmod:block/brick_oven/brick_oven_side",
+    "front": "redbrainssurvivalmod:block/brick_oven/brick_oven_front_unlit",
+    "front_overlay": "redbrainssurvivalmod:block/brick_oven/brick_oven_fuel_7_unlit_overlay"
+  }
+}

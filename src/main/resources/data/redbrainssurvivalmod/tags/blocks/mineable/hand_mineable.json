@@ -1,0 +1,30 @@
+{
+  "values": [
+    "#minecraft:all_signs",
+    "#minecraft:dirt",
+    "#minecraft:logs",
+    "#minecraft:leaves",
+    "#minecraft:planks",
+    "#minecraft:wooden_doors",
+    "#minecraft:wool",
+    "#redbrainssurvivalmod:subblocks_planks",
+    "#redbrainssurvivalmod:subblocks_cobblestones",
+    "#redbrainssurvivalmod:bricks",
+    "#redbrainssurvivalmod:pottery",
+    "#redbrainssurvivalmod:torches",
+    "#redbrainssurvivalmod:vases",
+    "redbrainssurvivalmod:sandstone",
+    "redbrainssurvivalmod:red_sandstone",
+    "redbrainssurvivalmod:anvil",
+    "redbrainssurvivalmod:axle",
+    "redbrainssurvivalmod:bellows",
+    "redbrainssurvivalmod:creative_mechanical_source",
+    "redbrainssurvivalmod:gear_box",
+    "redbrainssurvivalmod:redstone_gear_box",
+    "redbrainssurvivalmod:hand_crank",
+    "redbrainssurvivalmod:turntable",
+    "redbrainssurvivalmod:saw",
+    "redbrainssurvivalmod:placed_tool",
+    "redbrainssurvivalmod:cocoa"
+  ]
+}

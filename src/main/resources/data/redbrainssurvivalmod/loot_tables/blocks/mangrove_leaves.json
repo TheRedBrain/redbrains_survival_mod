@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:match_tool",
+                      "predicate": {
+                        "items": [
+                          "redbrainssurvivalmod:iron_shears",
+                          "redbrainssurvivalmod:diamond_shears"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ],
+              "name": "redbrainssurvivalmod:mangrove_leaves"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "f",
+    "w",
+    "f"
+  ],
+  "key": {
+    "f": {
+      "item": "redbrainssurvivalmod:fabric"
+    },
+    "w": {
+      "tag": "redbrainssurvivalmod:wool"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:padding"
+  }
+}

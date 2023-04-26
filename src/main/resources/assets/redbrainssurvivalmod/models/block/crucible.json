@@ -1,0 +1,9 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_cauldron",
+  "textures": {
+    "particle": "redbrainssurvivalmod:block/crucible_side",
+    "top": "redbrainssurvivalmod:block/crucible_top",
+    "bottom": "redbrainssurvivalmod:block/crucible_bottom",
+    "side": "redbrainssurvivalmod:block/crucible_side"
+  }
+}

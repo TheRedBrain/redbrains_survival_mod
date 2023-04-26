@@ -1,0 +1,6 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_crop_cross",
+  "textures": {
+    "crop": "redbrainssurvivalmod:block/crops/hemp_lower_stage6"
+  }
+}

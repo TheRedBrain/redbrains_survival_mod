@@ -1,0 +1,11 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "minecraft:bone"
+  },
+  "results": {
+    "item": "minecraft:bone_meal",
+    "count": 3
+  },
+  "grindingTime": 200
+}

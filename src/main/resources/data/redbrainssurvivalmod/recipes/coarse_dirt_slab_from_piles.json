@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PG"
+  ],
+  "key": {
+    "P": {
+      "item": "redbrainssurvivalmod:dirt_pile"
+    },
+    "G": {
+      "item": "redbrainssurvivalmod:gravel_pile"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:coarse_dirt_slab",
+    "count": 1
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "conditions": [
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "redbrainssurvivalmod:rooted_dirt_slab",
+                      "properties": {
+                        "type": "double"
+                      }
+                    }
+                  ],
+                  "count": 2.0,
+                  "add": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "items": [
+                      "redbrainssurvivalmod:stone_shovel",
+                      "redbrainssurvivalmod:iron_shovel",
+                      "redbrainssurvivalmod:diamond_shovel",
+                      "redbrainssurvivalmod:golden_shovel",
+                      "redbrainssurvivalmod:refined_shovel",
+                      "redbrainssurvivalmod:mattock"
+                    ]
+                  }
+                }
+              ],
+              "name": "redbrainssurvivalmod:rooted_dirt_slab"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 6.0,
+                  "add": false
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "redbrainssurvivalmod:rooted_dirt_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "name": "redbrainssurvivalmod:dirt_pile"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 3.0,
+                  "add": false
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "name": "redbrainssurvivalmod:dirt_pile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

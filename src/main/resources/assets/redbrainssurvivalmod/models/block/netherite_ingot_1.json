@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_brick_block_1",
+  "textures": {
+    "texture_1": "minecraft:block/netherite_block",
+    "texture_2": "minecraft:block/netherite_block"
+  }
+}

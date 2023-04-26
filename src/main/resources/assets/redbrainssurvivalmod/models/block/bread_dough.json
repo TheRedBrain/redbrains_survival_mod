@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_brick_block_1",
+  "textures": {
+    "texture_1": "redbrainssurvivalmod:block/unbaked_dough",
+    "texture_2": "redbrainssurvivalmod:block/unbaked_dough"
+  }
+}

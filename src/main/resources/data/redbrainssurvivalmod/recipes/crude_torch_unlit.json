@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "s"
+  ],
+  "key": {
+    "c": {
+      "tag": "minecraft:coals"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "redbrainssurvivalmod:crude_torch_unlit"
+  }
+}

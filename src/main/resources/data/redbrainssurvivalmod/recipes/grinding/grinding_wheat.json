@@ -1,0 +1,10 @@
+{
+  "type": "redbrainssurvivalmod:grinding",
+  "ingredient": {
+    "item": "minecraft:wheat"
+  },
+  "results": {
+    "item": "redbrainssurvivalmod:flour"
+  },
+  "grindingTime": 200
+}

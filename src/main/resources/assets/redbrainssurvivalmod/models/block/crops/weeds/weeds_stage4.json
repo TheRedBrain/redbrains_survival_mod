@@ -1,0 +1,6 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_weed",
+  "textures": {
+    "weed": "redbrainssurvivalmod:block/crops/weeds_stage4"
+  }
+}

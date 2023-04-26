@@ -1,0 +1,28 @@
+{
+  "values": [
+    "redbrainssurvivalmod:grass_block",
+    "redbrainssurvivalmod:grass_slab",
+    "redbrainssurvivalmod:grass_block_sparse",
+    "redbrainssurvivalmod:grass_slab_sparse",
+    "redbrainssurvivalmod:dirt",
+    "redbrainssurvivalmod:dirt_slab",
+    "redbrainssurvivalmod:loose_dirt",
+    "redbrainssurvivalmod:loose_dirt_slab",
+    "redbrainssurvivalmod:mycelium",
+    "redbrainssurvivalmod:mycelium_slab",
+    "redbrainssurvivalmod:mycelium_sparse",
+    "redbrainssurvivalmod:mycelium_slab_sparse",
+    "redbrainssurvivalmod:dirt_path",
+    "redbrainssurvivalmod:dirt_path_slab",
+    "redbrainssurvivalmod:sand",
+    "redbrainssurvivalmod:sand_slab",
+    "redbrainssurvivalmod:red_sand",
+    "redbrainssurvivalmod:red_sand_slab",
+    "redbrainssurvivalmod:gravel",
+    "redbrainssurvivalmod:gravel_slab",
+    "redbrainssurvivalmod:coarse_dirt_slab",
+    "redbrainssurvivalmod:podzol_slab",
+    "redbrainssurvivalmod:rooted_dirt_slab",
+    "redbrainssurvivalmod:farmland"
+  ]
+}

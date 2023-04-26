@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_brick_block_7",
+  "textures": {
+    "texture_1": "minecraft:block/diamond_block",
+    "texture_2": "minecraft:block/diamond_block"
+  }
+}

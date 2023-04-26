@@ -1,0 +1,7 @@
+{
+  "parent": "redbrainssurvivalmod:block/templates/template_crop_cross_with_weed",
+  "textures": {
+    "crop": "redbrainssurvivalmod:block/farmersdelight/crops/cabbages_stage1",
+    "weed": "redbrainssurvivalmod:block/crops/weeds_stage2"
+  }
+}

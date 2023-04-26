@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "fertilized=false,moisture=0": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=1": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=2": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=3": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=4": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=5": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=6": {
+      "model": "minecraft:block/farmland"
+    },
+    "fertilized=false,moisture=7": {
+      "model": "minecraft:block/farmland_moist"
+    },
+    "fertilized=true,moisture=0": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=1": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=2": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=3": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=4": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=5": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=6": {
+      "model": "redbrainssurvivalmod:block/farmland_fertilized"
+    },
+    "fertilized=true,moisture=7": {
+      "model": "redbrainssurvivalmod:block/farmland_moist_fertilized"
+    }
+  }
+}
